@@ -4,7 +4,7 @@
 Apple PlatormSSO 
 
 this is just some code for Plaform SSO so people can work it out, works with 
-This is jsut as i could not find anything this will hopefully help someone out there with getting this set up 
+This is just as i could not find anything this will hopefully help someone out there with getting this set up 
 
 
 
